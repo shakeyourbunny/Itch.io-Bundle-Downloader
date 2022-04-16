@@ -1,3 +1,8 @@
+# MOVED
+project has moved to https://github.com/shakeyourbunny/itch-downloader as it is on its own now.
+
+--
+
 # itch.io Downloader
 
 itch.io Downloader is a python script that allows you to download all games bound to your itch.io account. It was
